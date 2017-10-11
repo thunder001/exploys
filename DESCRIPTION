@@ -1,0 +1,15 @@
+Package: exploys
+Title: Analyze Exploys database from IBM
+Version: 0.0.0.9000
+Authors@R: person("Chunlei", "Zheng", email = "zhengcl75@gmail.com", role = c("aut", "cre"))
+Description: This package is used to analyze Exploys data.
+Author: Chunlei Zheng
+Maintainer: Chunlei Zheng <zhengcl75@gmail.com>
+Depends: R (>= 3.4.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
